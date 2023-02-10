@@ -1,0 +1,47 @@
+.main{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+.first ul {
+    list-style: none;
+}
+.second {
+    padding-top: 100px;
+}
+.third {
+    padding-top: 100px;
+}
+.second ul {
+    list-style: none;
+}
+.third ul {
+    list-style: none;
+}
+.second-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ }
+ .one ul {
+     list-style: none;
+ }
+ .two {
+     padding-top: 10px;
+ }
+ .three {
+     padding-top: 10px;
+ }
+ .two ul {
+     list-style: none;
+ }
+ .three ul {
+     list-style: none;
+ }
+ .color {
+    background-color: blue;
+    margin-left: 100px;
+    padding: 5px 30px;
+    outline: none;
+    color: white;
+ }
